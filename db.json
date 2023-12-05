@@ -1,19 +1,10 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "json-server",
-            "author": "typicode"
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "typicode"
+    "programaciones": {
+        "codigo": 1,
+        "nombre": "Programación Marzo 2024",
+        "mes": 2,
+        "anio": 2024,
+        "fecinicio": "02/12/2023",
+        "fecfin": "23/02/2024"
     }
 }
