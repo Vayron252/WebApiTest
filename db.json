@@ -9,6 +9,12 @@
         {
             "codigo": 2,
             "nombre": "Programación Diciembre 2023",
+            "fecinicio": "19/12/2023",
+            "fecfin": "20/12/2023"
+        },
+        {
+            "codigo": 3,
+            "nombre": "Programación Diciembre 2023",
             "fecinicio": "25/12/2023",
             "fecfin": "28/12/2023"
         }
