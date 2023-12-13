@@ -103,5 +103,51 @@
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla venenatis magna tristique, tempor nisi id, molestie nibh. Donec porta eros quis velit rhoncus, in consectetur lectus fermentum. Integer ut odio efficitur, egestas erat eu, finibus dolor. Praesent dapibus lorem sed diam viverra commodo. Quisque quis urna id leo lacinia malesuada nec vitae urna. Nullam imperdiet elit congue, semper eros nec, vestibulum velit. Proin ut erat non dolor lobortis commodo. Curabitur mattis, lacus quis condimentum ullamcorper, augue nisl ornare est, a elementum sapien risus sed massa.",
             "imagen": "https://res.cloudinary.com/dlwq4rdll/image/upload/v1701891296/publicaciones/ct24l8qdianluwbfelld.jpg"
         }
+    ],
+    "programacion_almuerzo" : [
+        {
+            "codigo": 1,
+            "idprogramacion": 1,
+            "nomprogramacion": "Programación Diciembre 2023",
+            "fechaprogramacion": "13/12/2023",
+            "menu": [
+                {
+                    "idproducto": 1,
+                    "nomproducto": "Refresco de Maracuyá",
+                    "imgproducto": "https://res.cloudinary.com/dlwq4rdll/image/upload/v1702450470/productos/trkeapltv7aewxuqt560.png",
+                    "catproducto": "refresco"
+                },
+                {
+                    "idproducto": 2,
+                    "nomproducto": "Refresco de Piña",
+                    "imgproducto": "https://res.cloudinary.com/dlwq4rdll/image/upload/v1702450470/productos/on1nnk4wox02bcvehko7.png",
+                    "catproducto": "refresco"
+                },
+                {
+                    "idproducto": 3,
+                    "nomproducto": "Sopa de Pollo",
+                    "imgproducto": "https://res.cloudinary.com/dlwq4rdll/image/upload/v1702447464/productos/xruwugxkosaugqu8jjeg.png",
+                    "catproducto": "entrada"
+                },
+                {
+                    "idproducto": 4,
+                    "nomproducto": "Papa a la huancaína",
+                    "imgproducto": "https://res.cloudinary.com/dlwq4rdll/image/upload/v1702447464/productos/wwv19ayz4dixu8evad6a.png",
+                    "catproducto": "entrada"
+                },
+                {
+                    "idproducto": 5,
+                    "nomproducto": "Carapulcra",
+                    "imgproducto": "https://res.cloudinary.com/dlwq4rdll/image/upload/v1702447027/productos/grr0zfhksgtqrmbmdnzz.png",
+                    "catproducto": "fondo"
+                },
+                {
+                    "idproducto": 6,
+                    "nomproducto": "Ají de Gallina",
+                    "imgproducto": "https://res.cloudinary.com/dlwq4rdll/image/upload/v1702447027/productos/bdfhgqdhkpw3ttdewyfr.png",
+                    "catproducto": "fondo"
+                }
+            ]
+        }
     ]
 }
